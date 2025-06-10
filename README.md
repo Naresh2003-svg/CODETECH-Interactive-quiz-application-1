@@ -1,2 +1,13 @@
-# CODETECH-Interactive-quiz-application-1
-Interactive Quiz Application is a dynamic web-based platform designed for engaging and interactive quizzes. It offers real-time feedback, multiple question formats, and a user-friendly interface, making it ideal for educators, students, and quiz enthusiasts.
+# CODETECH-Interactive Quiz Application
+
+## Overview
+CODETECH-Interactive Quiz Application is an engaging web-based quiz platform designed for interactive learning and fun challenges. With real-time feedback and multiple question formats, it enhances user experience and knowledge retention.
+
+## Features
+- Multiple quiz formats (MCQ, true/false, short answers)
+- Real-time feedback and scoring
+- User-friendly interface
+- Secure and scalable backend
+
+## Installation
+1. Clone the repository:
